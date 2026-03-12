@@ -39,7 +39,7 @@ class FlashSaleInventory {
     }
 }
 
-public class FlashSaleSystem {
+public class Main {
 
     public static void main(String[] args) {
 
